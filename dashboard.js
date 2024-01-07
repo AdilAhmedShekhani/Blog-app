@@ -10,12 +10,12 @@ import {
 // See: https://firebase.google.com/docs/web/learn-more#config-object
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCM9qGI-sUJr36CJjDcv2sx82PTOEJ_L9s",
-  authDomain: "smitbatch10.firebaseapp.com",
-  projectId: "smitbatch10",
-  storageBucket: "smitbatch10.appspot.com",
-  messagingSenderId: "573491351148",
-  appId: "1:573491351148:web:6da9d535d4b837210fd249",
+  apiKey: "AIzaSyBeTU3Kky3nBhni9QMVXe-0jFLecbC70LY",
+  authDomain: "my-blog-175ff.firebaseapp.com",
+  projectId: "my-blog-175ff",
+  storageBucket: "my-blog-175ff.appspot.com",
+  messagingSenderId: "47486749247",
+  appId: "1:47486749247:web:a7d8de59928cd06358468a"
 };
 
 // Initialize Firebase
